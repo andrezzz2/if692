@@ -1,0 +1,21 @@
+https://www.kanui.com.br/assets
+https://www.kanui.com.br/cart
+https://www.kanui.com.br/index/message
+
+https://www.kanui.com.br/recommengine.php
+
+https://www.kanui.com.br/Disallow: *--*
+
+https://www.kanui.com.br/seller
+https://www.kanui.com.br/--
+https://www.kanui.com.br/sizeguide:5
+
+https://www.kanui.com.br/catalog/sizeReminder*
+https://www.kanui.com.br/newsletter
+https://www.kanui.com.br/messagetelesales*
+
+https://www.kanui.com.br/recommendation
+https://www.kanui.com.br/seedeliverytime
+https://www.kanui.com.br/*tamanho-*-*
+https://www.kanui.com.br/*_*_*
+https://www.kanui.com.br/*--*
